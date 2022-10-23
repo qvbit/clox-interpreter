@@ -1,0 +1,3 @@
+C:/Users/nabee/CLionProjects/clox/cmake-build-debug/CMakeFiles/clox.dir
+C:/Users/nabee/CLionProjects/clox/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nabee/CLionProjects/clox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
